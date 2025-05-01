@@ -14,7 +14,7 @@ class Countdown:
         return value
 
 # Create a Countdown object
-Countdown = Countdown(100)
+Countdown = Countdown(5)
 
 # Use the Countdown object in a for-loop
 for num in Countdown:
